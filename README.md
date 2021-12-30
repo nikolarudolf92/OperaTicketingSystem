@@ -1,4 +1,4 @@
-# SystemForReservationTicketsForOpera
+# OperaTicketingSystem
 
 In this project I made an app that allows people to reserve Operas.
 When starting the application, the User should log in if he has an account and if he does not, then he must register.
